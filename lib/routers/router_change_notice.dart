@@ -1,7 +1,0 @@
-
-
-class RouterChange{
-  static notice() {
-
-  }
-}
